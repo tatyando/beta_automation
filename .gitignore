@@ -1,0 +1,7 @@
+# Created by pytest automatically.
+
+.vscode
+.DS_Store
+__pycache__/
+.pytest_cache/
+chromedriver
